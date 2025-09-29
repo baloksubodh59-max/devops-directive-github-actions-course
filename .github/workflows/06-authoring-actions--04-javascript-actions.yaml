@@ -42,7 +42,7 @@ jobs:
         with:
           submodules: true
       - name: Run typescript action
-        uses: ./06-authoring-actions/javascript-actions/typescript-action-with-build
+        uses: ./06-authoring-actions/javascript-actions/typescript-action-with-build-mine
         id: hello
         with:
           milliseconds: 5000
