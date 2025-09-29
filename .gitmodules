@@ -10,3 +10,6 @@
 [submodule "capstone"]
 	path = capstone
 	url = git@github.com:sidpalas/capstone.git
+[submodule "06-authoring-actions/javascript-actions/typescript-action-with-build-mine"]
+	path = 06-authoring-actions/javascript-actions/typescript-action-with-build-mine
+	url = https://github.com/baloksubodh59-max/typescript-action-with-build-mine.git
