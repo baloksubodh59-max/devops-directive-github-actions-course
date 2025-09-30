@@ -1,1 +1,27 @@
-.DS_store
+# Devbox directories
+.devbox/
+
+# OS-generated files
+**/.DS_Store
+Thumbs.db
+
+# Byte-compiled Python files
+*.pyc
+__pycache__/
+
+# Python virtual environment directories
+
+venv/
+.venv/
+env/
+.env/
+
+# Distribution and packaging files
+build/
+dist/
+*.egg-info/
+
+# Logs and other temporary files
+*.log
+.coverage
+.pytest_cache/
